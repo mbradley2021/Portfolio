@@ -1,0 +1,2 @@
+This was a project written in assembly language on the lc-3 platform for learning how the computer translates assembly into machine code. It controls a 8x8 pixel 
+box that can change colors and move around the screen. Pennsim is the program that was used to run the code.
